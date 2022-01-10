@@ -35,7 +35,7 @@ Your users should be able to:
 
 ### Mobile
 
-![Mobile](./images/mobile.gif)
+![Desktop](./images/mobile.gif)
 
 ### Links
 
