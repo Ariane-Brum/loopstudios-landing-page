@@ -39,8 +39,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/signup-form-using-css-grid-flexbox-html5-and-js-owWQXGRnK)
-- Live Site URL: [intro-component-with-signup-form](https://ariane-brum.github.io/intro-component-with-signup-form/)
+- Solution URL: [Solution]()
+- Live Site URL: [Loopstudios landing page]()
 
 ### Built with
 
