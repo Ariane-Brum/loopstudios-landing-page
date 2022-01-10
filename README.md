@@ -39,8 +39,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Loopstudios landing page]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-landing-page-using-html5-css-and-javascript-ZyRflBBzV)
+- Live Site URL: [Loopstudios landing page](https://ariane-brum.github.io/loopstudios-landing-page/)
 
 ### Built with
 
