@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@media (max-width: 1080px) {
+  html {
+    font-size: 93.75%;
+  }
+}
+
+@media (max-width: 720px) {
+  html {
+    font-size: 87.5%;
+  }
+}
+
+button {
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+body {
+  font-size: 15px;
+  -webkit-font-smoothing: antialiased;
+  font-family: var(--font-1);
+}
+
+:root {
+  /* Colors */
+  --white: hsl(0, 0%, 100%);
+  --black: hsl(0, 0%, 0%);
+  --dark-gray: hsl(0, 0%, 55%);
+  --very-dark-gray: hsl(0, 0%, 41%);
+
+  /* Fonts */
+  --font-1: "Alata", sans-serif;
+  --font-2: "Josefin Sans", sans-serif;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: var(--white);
+}
+.attribution a {
+  color: var(--white);
+}
+
+main {
+  background: var(--white);
+}
+
+.container {
+  max-width: 80%;
+  margin: 0 auto;
+  height: 100%;
+}
+
+.subtitle {
+  font-size: 2.5rem;
+  color: var(--black);
+  font-family: var(--font-2);
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+@media (max-width: 500px) {
+  /* .container {
+    max-width: 88%;
+  } */
+
+  .subtitle {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 375px) {
+  .container {
+    max-width: 86%;
+  }
+}
